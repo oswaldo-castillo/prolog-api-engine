@@ -1,0 +1,12 @@
+{
+  "name": "motor-inferencia-servicio",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.22.2",
+    "tau-prolog": "^0.3.4"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
